@@ -1,0 +1,11 @@
+#wrapper {
+    width: 960px;
+    background-color: green;
+}
+#header {
+    width: 960px;
+}
+.pageCenter {
+    margin-left: auto;
+    margin-right: auto;
+}
