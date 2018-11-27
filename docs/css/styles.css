@@ -2,6 +2,29 @@
     width: 960px;
     background-color: aqua;
 }
+#names {
+    line-height: 13px;
+    width: 250px;
+}
+#names p {
+    padding-left: 30px;
+}
+#paragraph h1, p {
+    width: 320px;
+}
+#paragraph {
+
+}
+#footer {
+    background-color: red;
+    color: white;
+    height: 120px;
+    line-height: 120px;
+    text-align: center;
+}
+#names h3 {
+    padding-left: 10px;
+}
 #header {
     height: 138px;
     line-height: 100px;
@@ -9,9 +32,11 @@
 #bottomBorder {
     border: black 5px solid;
     height: 550px;
+
 }
 #AJ {
-    width: 390px;
+    width: 318px;
+    border-right: 5px black solid;
 }
 #pic {
     height: 138px;
@@ -25,7 +50,7 @@
     margin-left: auto;
     margin-right: auto;
 }
-.clear {
+.clearFix {
     clear: both;
 }
 .floatLeft {
